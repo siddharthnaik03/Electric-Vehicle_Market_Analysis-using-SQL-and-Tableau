@@ -29,31 +29,31 @@
 
 5.	### Most registered models:The above graph shows the distribution of electric vehicle registrations among different models.
 
-   •	TESLA’s MODEL Y and MODEL 3 are the most registered vehicles, with MODEL Y having the highest number of registrations.
+       •	TESLA’s MODEL Y and MODEL 3 are the most registered vehicles, with MODEL Y having the highest number of registrations.
 
-   •	NISSAN’s LEAF is the third most registered model and the most registered non-TESLA vehicle.
+       •	NISSAN’s LEAF is the third most registered model and the most registered non-TESLA vehicle.
 
-   •	TESLA’s MODEL S and MODEL X also have a significant number of registrations.
+       •	TESLA’s MODEL S and MODEL X also have a significant number of registrations.
 
-   •	CHEVROLET’s BOLT EV and VOLT are the next in the ranking with considerable registrations.
+       •	CHEVROLET’s BOLT EV and VOLT are the next in the ranking with considerable registrations.
 
-    •	Jeep’s Wrangler and Ford’s Mustang Mach-E have the least number of registrations among the models shown.
+    
 
 
 
 6.	### Electric Range Analysis: Analyse the electric range of vehicles to see how EV technology is progressing.
 
-    The above graph shows the progression of the average electric range of vehicles from around the year 2000 to 2024. Key findings from the graph:
+        The above graph shows the progression of the average electric range of vehicles from around the year 2000 to 2024. Key findings from the graph:
 
-   •	There is a general upward trend in the average electric range of EVs over the years, indicating improvements in technology and battery efficiency.
+        •	There is a general upward trend in the average electric range of EVs over the years, indicating improvements in technology and battery efficiency.
 
-   •	There is a noticeable peak around the year 2020 when the average range reaches its highest point.
+        •	There is a noticeable peak around the year 2020 when the average range reaches its highest point.
 
-   •	Following 2020, there’s a significant drop in the average range, which could indicate that data for the following years might be incomplete or reflect the introduction of several lower-range models.
+        •	Following 2020, there’s a significant drop in the average range, which could indicate that data for the following years might be incomplete or reflect the introduction of several lower-range models.
 
-   •	After the sharp decline, there is a slight recovery in the average range in the most recent year shown on the graph.
+        •	After the sharp decline, there is a slight recovery in the average range in the most recent year shown on the graph.
 
-   •	The number of actual EV registrations remained relatively low and stable until around 2010, after which there was a consistent and steep upward trend, suggesting a significant increase in EV adoption.
+        •	The number of actual EV registrations remained relatively low and stable until around 2010, after which there was a consistent and steep upward trend, suggesting a significant increase in EV adoption.
    
 
 7. ### Estimated Growth in Market Size: Analyze and find the estimated growth in the market size of electric vehicles.
