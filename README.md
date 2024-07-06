@@ -17,9 +17,20 @@ The above above pie chart shows that BEVs are more popular or preferred over PHE
 
 
 4. ### 	Maker Popularity: Identify the most popular makes among the registered EVs.
-
 •	TESLA is in the lead with a significant lead in the number of registered vehicles.
+
 •	NISSAN comes in second place as a popular manufacturer, with CHEVROLET following closely behind, although both have fewer registrations compared to TESLA.
+
+
+
+
+
+
+
+
+
+
+
 •	Following behind are FORD, BMW, KIA, TOYOTA, VOLKSWAGEN, JEEP, and HYUNDAI in descending order of registered vehicles.
 
 
@@ -40,11 +51,17 @@ The above above pie chart shows that BEVs are more popular or preferred over PHE
 6.	### Electric Range Analysis: Analyse the electric range of vehicles to see how EV technology is progressing.
 
 The above graph shows the progression of the average electric range of vehicles from around the year 2000 to 2024. Key findings from the graph:
+
 •	There is a general upward trend in the average electric range of EVs over the years, indicating improvements in technology and battery efficiency.
+
 •	There is a noticeable peak around the year 2020 when the average range reaches its highest point.
+
 •	Following 2020, there’s a significant drop in the average range, which could indicate that data for the following years might be incomplete or reflect the introduction of several lower-range models.
+
 •	After the sharp decline, there is a slight recovery in the average range in the most recent year shown on the graph.
+
 The data suggest that while there have been fluctuations, the overall trend over the last two decades has been toward increasing the electric range of EVs.
+
 •	The number of actual EV registrations remained relatively low and stable until around 2010, after which there was a consistent and steep upward trend, suggesting a significant increase in EV adoption.
 
 7. ### Estimated Growth in Market Size: Analyze and find the estimated growth in the market size of electric vehicles.
