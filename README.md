@@ -37,8 +37,6 @@
 
        •	CHEVROLET’s BOLT EV and VOLT are the next in the ranking with considerable registrations.
 
-    
-
 
 6.	### Electric Range Analysis: Analyse the electric range of vehicles to see how EV technology is progressing.
 
@@ -52,14 +50,12 @@
   	
     •	After the sharp decline, there is a slight recovery in the average range in the most recent year shown on the graph.
         The data suggest that while there have been fluctuations, the overall trend over the last two decades has been toward increasing the electric range of EVs.
+
  
-
-
-
 8. ### Estimated Growth in Market Size: Analyze and find the estimated growth in the market size of electric vehicles.
-    The forecasted EV registrations predict an even more dramatic increase in the near future, with the number of registrations expected to rise sharply in the coming years.
+   •	The forecasting shows increase in electric vehicle (EV) registrations for the next five years, expected to be 25% by the end of 2028.
+![EV_Dashboard png](https://github.com/siddharthnaik03/Electric-Vehicle_Market_Analysis-using-SQL-and-Tableau/assets/173901732/81362e97-2cb4-48ec-a00b-8968402dbbef)
 
 
-![image](https://github.com/siddharthnaik03/Electric-Vehicle_Market_Analysis-using-SQL-and-Tableau/assets/173901732/47d992cd-1087-4e85-a679-f876cda5c16c)
 
    
